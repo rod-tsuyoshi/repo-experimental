@@ -3,5 +3,5 @@
 > Status do projeto: Em desenvolvimento
 
 ```
-Códigos feitos por IA
+node app.js
 ```
